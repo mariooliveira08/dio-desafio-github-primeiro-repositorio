@@ -1,0 +1,22 @@
+Tips Git/GitHub
+
+Add files or folders that are not in the server
+git add *
+
+
+commit -m "files or folders"
+
+Push to server files and folders
+push
+
+Clone Repository
+git clone "Project URL"
+
+List files and folders in the directory
+ls
+
+Show status of the git right now
+git status
+
+Change directory
+cd "directory's name"
