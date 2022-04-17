@@ -1,2 +1,1 @@
-# dio-desafio-github-primeiro-repositorio
-Project Challenge About  Git/GitHub
+# Project Challenge About Git/GitHub Repository
