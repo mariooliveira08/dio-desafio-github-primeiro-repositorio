@@ -4,13 +4,13 @@ Add files or folders that are not in the server
 git add *
 
 
-commit -m "files or folders"
+commit -m "Message"
 
 Push to server files and folders
 push
 
 Clone Repository
-git clone "Project URL"
+git clone <Project URL>
 
 List files and folders in the directory
 ls
@@ -19,4 +19,4 @@ Show status of the git right now
 git status
 
 Change directory
-cd "directory's name"
+cd <directory's name>
